@@ -1,0 +1,1 @@
+ISCHANGED(Name) && (OR(ISPICKVAL(Type, 'Customer - Direct'), ISPICKVAL(Type, 'Customer - Channel')))
